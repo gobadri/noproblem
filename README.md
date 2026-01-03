@@ -43,8 +43,8 @@ cd no-problem-ai
 Launch the application: Simply open the index.html file in your browser.
 
 📖 Documentation
-The "Ma'lesh" Protocol
-Unlike traditional Large Language Models (LLMs) that rely on probabilistic tokens, No Problem AI uses a Deterministic Empathy Model (DEM).
+The Protocol
+Unlike traditional Large Language Models (LLMs) that rely on probabilistic tokens, NoProblem AI uses a Deterministic Empathy Model (DEM).
 
 The Algorithm
 The core logic follows a strict time-based heuristic:

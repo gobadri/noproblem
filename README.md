@@ -25,7 +25,7 @@ This repository contains the source code for the frontend interface, featuring a
 
 ## 🛠 Installation & Setup
 
-No Problem AI is built with **Vanilla HTML5, CSS3, and JavaScript**. There are no node modules to install and no build steps required.
+NoProblem AI is built with **Vanilla HTML5, CSS3, and JavaScript**. There are no node modules to install and no build steps required.
 
 ### Prerequisites
 * A modern web browser (Chrome, Edge, Firefox, Safari).
